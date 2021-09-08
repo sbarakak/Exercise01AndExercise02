@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\samson.kalume.CRAFTSILICON\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\samson.kalume.CRAFTSILICON\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ]
-  }
-}
