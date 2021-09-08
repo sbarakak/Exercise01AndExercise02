@@ -1,0 +1,8 @@
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.deps.json
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.dll
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.pdb
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfoInputs.cache
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfo.cs
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.dll
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.pdb
+E:\Samson_Working\2018\Exercise\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.deps.json
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.json
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.dev.json
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csprojAssemblyReference.cache
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfoInputs.cache
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfo.cs
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.genruntimeconfig.cache
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise01.dll
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\bin\Debug\netcoreapp3.1\Exercise01.pdb
+E:\Samson_Working\2018\Exercise\Exercise02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csproj.CopyComplete
