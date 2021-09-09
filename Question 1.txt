@@ -1,2 +1,2 @@
 Select CarMaker, CarModel,sum(price) TotalSalePrice From CarSales  where 
-Datediff(d,saledate,getdate()) <=30 group by CarMaker,CarModel
+Datediff(d,saledate,getdate()) <=30 group by CarMaker,CarModel order by CarMaker
